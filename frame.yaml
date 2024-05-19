@@ -1,0 +1,6 @@
+name: football-game
+title: Simple Football Game
+description: A simple football game playable within a Farcaster frame.
+version: 1.0.0
+author: Your Name
+homepage: https://your-vercel-deployment-url.vercel.app
